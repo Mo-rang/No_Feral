@@ -2,9 +2,9 @@
   {
     "type": "MOD_INFO",
     "id": "no_feral",
-    "name": "No Ferals",
+    "name": "페럴 제거",
 	"authors": [ "Morang" ],
-    "description": "Only civilized people in cataclysm.",
+    "description": "오직 문명인들만",
     "category": "monster_exclude",
     "dependencies": [ "dda" ]
   },
